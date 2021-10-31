@@ -1,0 +1,3 @@
+x=1
+b=3
+print("somme= ",x+b)
